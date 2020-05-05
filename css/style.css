@@ -382,7 +382,7 @@ p {
     background: url(../images/pattern.png) left top repeat-x;
     margin-bottom: 1.5em;
 }
-.sidebar ul {
+.sidebar ul li {
     list-style:none;
 }
 
