@@ -2,9 +2,9 @@ body, *, *:before, *:after {
     box-sizing: border-box;
 }
 
-.figure {
+figure {
         margin:0;}
-.figure img {
+figure img {
     margin:0;
     width: 100;}
 
