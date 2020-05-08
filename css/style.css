@@ -5,6 +5,7 @@ body, *, *:before, *:after {
 .figure {
         margin:0;}
 .figure img {
+    margin:0;
     width: 100;}
 
 html, body {
